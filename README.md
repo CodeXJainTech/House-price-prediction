@@ -18,7 +18,7 @@ This project converts raw housing data into a production-ready prediction tool. 
 ├── .ipynb_checkpoints/            # Jupyter notebook auto-save checkpoints
 ├── data/                          # Raw CSV data
 ├── demo/                          # Screenshots of working web app
-│   └── pic3.jpg                   # Prediction Output
+│   └── pic.png                   # Prediction Output
 ├── templates/                     # HTML templates (form + result)
 ├── .python-version                # Python version for deployment
 ├── House_Price_Prediction.ipynb  # Notebook with EDA + model training
@@ -133,6 +133,7 @@ Live app link:
 * numpy: 1.26.4
 * scikit-learn: 1.4.2
 * gunicorn: 21.2.0
+* matplotlib: 3.8.0
 
 ---
 
@@ -141,7 +142,7 @@ Live app link:
 Below are screenshots showing how the app responds to different house input features:
 
 ### 🏠 Prediction Example 1
-![Prediction Example 1](demo/pic3.jpg)
+![Prediction Example 1](demo/pic.png)
 
 
 ## License
