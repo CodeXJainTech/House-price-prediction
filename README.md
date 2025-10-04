@@ -1,6 +1,6 @@
 # House Price Prediction Web App
 
-Live Demo: 
+Live Demo: [Link](https://house-price-prediction-9o82.onrender.com)
 
 This is a machine learning-powered web application that predicts house prices in Bengaluru using Linear Regression. Built with Flask and deployed on Render.
 
@@ -110,7 +110,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Then open your browser and go to: [http://localhost:5000](http://localhost:5000)
+Then open your browser and go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
@@ -121,7 +121,7 @@ Then open your browser and go to: [http://localhost:5000](http://localhost:5000)
 * Auto-deployment configured with `render.yaml`
 * Gunicorn used as WSGI HTTP server
 
-Live app link:
+Live app link: [Link](https://house-price-prediction-9o82.onrender.com)
 
 ---
 
